@@ -15,3 +15,5 @@
   <li>Bootstrap</li>
   <li>Git</li>
 </ul>
+
+<h3>Bons estudos!</h3>
