@@ -16,4 +16,4 @@
   <li>Git</li>
 </ul>
 
-<h3>Bons estudos!</h3>
+<p>Bons estudos!</p>
